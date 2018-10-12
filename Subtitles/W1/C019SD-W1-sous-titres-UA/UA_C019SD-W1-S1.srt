@@ -1,96 +1,127 @@
 ﻿1
 00:00:07,880 --> 00:00:11,480
+Hello and welcome to this Mooc
+on Pharo:
 Привіт. Вітаємо тебе на МВОКу
 присвяченому Pharo:
 
 2
 00:00:11,640 --> 00:00:14,200
-
+Live Object Programming in Pharo.
 Live Object Programming in Pharo.
 
 3
 00:00:14,360 --> 00:00:18,240
+For this first lecture
+I'll present the mooc's aims.
 У цій першій лекції
 я розповім про цілі даного курсу.
 
 4
 00:00:18,760 --> 00:00:20,520
+So what are they?
 Тож які вони?
 
 5
 00:00:20,680 --> 00:00:23,920
+You'll learn to program in Pharo,
+obviously.
 Ти навчишся програмувати на Pharo,
 само собою.
 
 6
 00:00:24,080 --> 00:00:27,640
+It's important to understand
+and master all the syntax,
 Важливо зрозуміти й опанувати
 увесь синтаксис,
 
 7
 00:00:27,800 --> 00:00:29,640
+the full syntax and model,
 увесь синтаксис і модель,
 
 8
 00:00:29,800 --> 00:00:31,880
+and the environment of Pharo.
 а також середовище Pharo.
 
 9
 00:00:32,040 --> 00:00:33,760
+It's not just a language,
 Це не просто мова,
 
 10
 00:00:33,920 --> 00:00:37,680
+it's a programming environment
+with lots of tools.
 це середовище програмування
 з безлічю інструментів.
 
 11
 00:00:37,840 --> 00:00:40,520
+We'll show you
+some of the most useful ones.
 Ми покажемо тобі
 найважливіші з них.
 
 12
 00:00:40,680 --> 00:00:43,960
+The mooc won't limit itself
+to just presenting Pharo.
 Цей курс не обмежуватиметься
 лише вивченням Pharo.
 
 13
 00:00:44,120 --> 00:00:45,680
+We'll deeply understand
 Ми дамо тобі глибоке розуміння
 
 14
 00:00:45,840 --> 00:00:48,640
+the object-oriented
+fundamental mechanisms.
 фундаментальних механізмів
 об'єктно-орієнтованого програмування.
 
 15
 00:00:48,800 --> 00:00:50,240
+That's really interesting.
 Це неймовірно цікаво.
 
 16
 00:00:50,400 --> 00:00:53,480
+We'll illustrate these
+with aspects of Pharo itself.
 Ми демонструватимемо ці механізми
 за допомогою аспектів самого Pharo.
 
 17
 00:00:53,640 --> 00:00:55,600
+We will also, from time to time,
 Час від часу ми також
 
 18
 00:00:55,760 --> 00:00:58,640
+show you some design heuristics,
 показуватимемо тобі деякі евристики дизайну,
 
 19
 00:00:58,800 --> 00:01:02,400
+heuristics which will let you,
+in your life as a programmer,
 евристики, що дозволять тобі
 у твоєму житті програміста
 
 20
 00:01:02,560 --> 00:01:04,040
+design applications
 проектувати додатки
 
 21
 00:01:04,200 --> 00:01:07,000
+in a more elegant,
+more extendable way.
 більш елегантними
 і розширюваними.
 
