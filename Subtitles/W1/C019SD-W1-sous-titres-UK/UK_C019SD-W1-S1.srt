@@ -309,152 +309,209 @@ So why Pharo?
 00:02:37,120 --> 00:02:41,520
 Setting aside that we developed it
 and think it's a great language,
+Окрім того, що ми створили Pharo
+і вважаємо, що це чудова мова,
 
 51
 00:02:41,760 --> 00:02:45,480
 it's very interesting
 from an educational point of view
+вона дуже цікава
+з навчальної точки зору,
 
 52
 00:02:45,640 --> 00:02:48,640
 because you'll be immersed
 in a world of objects,
+адже ти зануришся у світ об'єктів,
 
 53
 00:02:48,800 --> 00:02:52,480
 interacting with
 and manipulating objects.
+взаємодіятимеш з об'єктами
+і маніпулюватимеш ними.
 
 54
 00:02:52,640 --> 00:02:53,880
 As an example,
+Наприклад,
 
 55
 00:02:54,040 --> 00:02:56,960
 loops don't exist
 as constructers in Pharo.
+цикли не є вбудованими
+елементами мови Pharo.
 
 56
 00:02:57,120 --> 00:03:00,080
 They're messages sent to objects
 that are collections.
+Це повідомлення, що надсилаються
+об'єктам, які є колекціями.
 
 57
 00:03:00,240 --> 00:03:03,600
 Conditions are messages
 sent to objects that are booleans.
+Умови - це повідомлення, що
+надсилаються булевим об'єктам.
 
 58
 00:03:03,760 --> 00:03:08,640
 So you'll constantly be interacting
 with living objects
+Отож, ти постійно взаємодіятимеш
+із живими об'єктами
 
 59
 00:03:08,920 --> 00:03:12,160
 and your programs will be transformed
 under your fingers.
+і твої програми змінюватимуться
+просто під твоїми пальцями.
 
 60
 00:03:12,320 --> 00:03:15,080
 The fact that Pharo
 is fully written in itself
+Той факт, що
+Pharo написаний на Pharo
 
 61
 00:03:15,240 --> 00:03:18,480
 means you have a wide possibility
 for discoveries.
+означає, що в тубе є широке поле 
+для досліджень і відкриттів.
 
 62
 00:03:18,640 --> 00:03:23,160
 Once you've understood
 the syntactical aspects of Pharo,
+Як тільки ти зрозумієш
+синтаксичні аспекти Pharo,
 
 63
 00:03:23,320 --> 00:03:25,320
 the whole world
 will open up to you,
+перед тобою відкриється
+цілий світ,
 
 64
 00:03:25,480 --> 00:03:28,040
 because it's fully written in itself.
+бо від повністю написаний
+на самому собі.
 
 65
 00:03:28,720 --> 00:03:32,720
 So, to sum up this voyage
 that I'm inviting you on...
+Підводячи підсумки перед початком
+подорожі, на яку я тебе запрошую...
 
 66
 00:03:32,960 --> 00:03:34,840
 Pharo is pure and elegant.
+Pharo чистий і елегантний.
 
 67
 00:03:35,000 --> 00:03:38,520
 There are very few concepts used.
+Він обмежений дуже
+небагатьмя концепціями.
 
 68
 00:03:38,680 --> 00:03:43,200
 It's fun to program because
 of the interaction with objects.
+Через взаємодію з об'єктами
+на ньому дуже весело програмувати.
 
 69
 00:03:43,360 --> 00:03:45,880
 It's highly productive.
+А також дуже продуктивно.
 
 70
 00:03:46,040 --> 00:03:49,440
 Pharo is used in many universities
+Pharo використовується
+багатьма університетами
 
 71
 00:03:49,720 --> 00:03:52,920
 because of its teaching properties
 and the positive aspects
+через його повчальні властивості
+та позитивні аспекти,
 
 72
 00:03:53,160 --> 00:03:54,520
 that it teaches.
+яким він навчає.
 
 73
 00:03:54,680 --> 00:03:57,280
 One point which is often overlooked
+Ще один факт, про який часто забувають,
 
 74
 00:03:57,440 --> 00:04:00,720
 is that Pharo
 is an empowering system.
+це те, що Pharo
+розширює наші можливості.
 
 75
 00:04:00,880 --> 00:04:03,640
 Pharo isn't a blackbox.
+Він не чорна коробка.
 
 76
 00:04:03,800 --> 00:04:08,400
 You'll be able to see
 how the system is implemented
+Ти матимеш можливіть побачити,
+як збудована ця система,
 
 77
 00:04:08,560 --> 00:04:10,520
 and modify things.
+а також змінювати її.
 
 78
 00:04:10,680 --> 00:04:14,800
 The metaphor I often use
 is that Pharo is a fish tank,
+Я часто вдаюсь до метафори,
+називаючи Pharo акваріумом,
 
 79
 00:04:14,960 --> 00:04:18,120
 and you can jump into the tank
 and swim with the fish!
+ти можеш застрибнути в акваріум
+і плавати разом з рибою!
 
 80
 00:04:18,280 --> 00:04:20,240
 That's very special.
+Це дуже особлива риса.
 
 81
 00:04:20,400 --> 00:04:25,080
 We're going to show you some videos
 which will explain those aspects.
+Ми покажемо тобі відео, що допоможуть
+тобі зрозуміти ці аспекти.
 
 82
 00:04:25,240 --> 00:04:27,680
 You'll have access
 to the entire system.
+Ти матимеш доступ
+до всієї системи.
