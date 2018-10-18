@@ -1,47 +1,43 @@
 ﻿1
 00:00:07,880 --> 00:00:11,480
-Hello and welcome to this Mooc
-on Pharo:
+हेलो और आपका स्वागत है इस फारो के मूक मे:
 
 2
 00:00:11,640 --> 00:00:14,200
-Live Object Programming in Pharo.
+फारो के लाइव ऑब्जेक्ट प्रोग्रामिंग.
 
 3
 00:00:14,360 --> 00:00:18,240
-For this first lecture
-I'll present the mooc's aims.
+इस पहले व्याख्यान के लिए मैं इस मूक के लक्ष्य पेश करूँगा.
 
 4
 00:00:18,760 --> 00:00:20,520
-So what are they?
+तो वो क्या हैं?
 
 5
 00:00:20,680 --> 00:00:23,920
-You'll learn to program in Pharo,
-obviously.
+आप फारो में प्रोग्राम करना सीखेंगे!
 
 6
 00:00:24,080 --> 00:00:27,640
-It's important to understand
-and master all the syntax,
+फारो के वाक्यानिवास,
 
 7
 00:00:27,800 --> 00:00:29,640
-the full syntax and model,
+मॉडल और एनवायरनमेंट
 
 8
 00:00:29,800 --> 00:00:31,880
-and the environment of Pharo.
+ सिकना जरूरी है.
 
 9
 00:00:32,040 --> 00:00:33,760
-It's not just a language,
+यह सिर्फ एक भाषा नहीं है,
 
 10
 00:00:33,920 --> 00:00:37,680
-it's a programming environment
-with lots of tools.
+यह एक प्रोग्रामिंग एनवायरनमेंट है
+बहुत सारे उपकरणों के साथ।
 
 11
 00:00:37,840 --> 00:00:40,520
